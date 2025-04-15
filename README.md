@@ -4,15 +4,6 @@
 
 <p align="left">Hi there, I'm Sri Harsha Potta! 👋<br>🎓 Computer Science Student at UT Austin<br>🔐 Studying Cybersecurity & Artificial Intelligence<br>📱 Passionate about Mobile App Development<br>📫 Check out my LinkedIn: https://www.linkedin.com/in/sri-harsha-potta-526013238/</p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SriharshaPotta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SriharshaPotta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
